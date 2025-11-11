@@ -1,4 +1,5 @@
 # ADS502_FinalProject
+### By Mason Delan & Shesma Jaganathan
 
 ## 1. Project Overview
 
