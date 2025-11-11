@@ -15,7 +15,8 @@ Rather than using cameras or intrusive tracking, this project focuses on data fr
 
 ## 2. Dataset Description
 
-The dataset used in this project is the **Room Occupancy Estimation** dataset from the UCI Machine Learning Repository.
+The dataset used in this project is the **Room Occupancy Estimation** dataset from the UCI Machine Learning Repository:  
+[https://archive.ics.uci.edu/dataset/864/room+occupancy+estimation](https://archive.ics.uci.edu/dataset/864/room+occupancy+estimation)
 
 ### Overview
 - Collected in a 6 m × 4.6 m room over four days, without HVAC running.  
