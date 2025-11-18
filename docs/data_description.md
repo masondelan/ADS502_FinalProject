@@ -12,8 +12,6 @@ The dataset used in this project contains environmental sensor readings collecte
 	
 	•	Motion sensors: S6_PIR and S7_PIR
 	
-	•	Timestamp: Created from merged Date and Time columns
-	
 	•	Target variable: Room_Occupancy_Count, an integer representing the number of people in the room
 
 	
