@@ -1,4 +1,5 @@
 Dataset Description
+
 The dataset used in this project contains environmental sensor readings collected from a laboratory environment. Each row is a timestamped observation containing the following features:
 	•	Temperature sensors: S1_Temp, S2_Temp, S3_Temp, S4_Temp
 	•	Light sensors: S1_Light, S2_Light, S3_Light, S4_Light
