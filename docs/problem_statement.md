@@ -1,6 +1,6 @@
 Problem Statement
 
-The objective of this project is to predict room occupancy using environmental sensor data. We analyze multiple types of IoT measurements—temperature, sound, light, CO₂, and PIR motion—to build predictive models that determine how many people are in the room at any moment. The model will support energy-efficient building automation by offering a non-invasive, sensor-based alternative to traditional occupancy detection systems.
+This project focuses on predicting room occupancy using environmental IoT sensor data. Instead of estimating the exact number of people present, the objective is to classify whether a room is occupied or unoccupied. This approach is more suitable for the dataset, which contains a much larger proportion of unoccupied readings compared to occupied ones.
 
 
 
