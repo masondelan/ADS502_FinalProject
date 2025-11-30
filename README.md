@@ -4,12 +4,11 @@
 ## 1. Project Overview
 
 ### Problem Statement
-This project explores how accurately the number of people in a room can be predicted using environmental sensor data.  
-The goal is to estimate occupancy levels based on signals such as temperature, CO2, light, and sound intensity.
+This project focuses on predicting room occupancy using environmental IoT sensor data. Instead of estimating the exact number of people present, the objective is to classify whether a room is occupied or unoccupied. This approach is more suitable for the dataset, which contains a much larger proportion of unoccupied readings compared to occupied ones.
 
 ### Background and Motivation
-Understanding room occupancy is valuable for energy efficiency, HVAC automation, and smart-building management.  
-Rather than using cameras or intrusive tracking, this project focuses on data from non-invasive IoT sensors to create a privacy-friendly approach to detecting when and how many people are present.
+
+Accurate occupancy detection supports energy-efficient building automation, HVAC optimization, and smart-building management. Because the method relies on non-invasive sensor measurements—such as temperature, CO₂ levels, sound intensity, light readings, and PIR motion—it avoids the privacy concerns associated with camera-based monitoring. By leveraging these environmental signals, this project develops machine learning models that provide a sensor-driven, privacy-friendly way to determine room occupancy.
 
 ---
 
